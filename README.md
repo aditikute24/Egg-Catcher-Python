@@ -1,4 +1,4 @@
--
+
 # Egg Catcher Game
 
 Egg Catcher is a simple and fun arcade-style game built using Python's Tkinter library. The objective of the game is to catch as many falling eggs as possible using a catcher before they hit the ground. The game speeds up as you progress, increasing the challenge.
